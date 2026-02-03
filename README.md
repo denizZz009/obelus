@@ -1,6 +1,8 @@
 # Obelus
-
+![obelus_final_logo_v1_1770108585941](https://github.com/user-attachments/assets/c90098fc-0081-4dab-943e-689e314c7e3b)
 ---
+
+
 
 Obelus is a minimalist security research framework designed for deep-system analysis and defensive validation on Windows environments. It emphasizes low-level system interaction, memory forensics, and stealth technique simulation to assist researchers in understanding modern adversary behavior.
 
